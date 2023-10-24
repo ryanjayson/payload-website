@@ -30,7 +30,7 @@ export async function Header() {
         <div class="container max-w-screen-xl mx-auto px-4">
           <nav class="flex-wrap lg:flex items-center" x-data="{navbarOpen:false}">
             <div class="flex items-center mb-10 lg:mb-0">
-              <img src="assets/logo.png" alt="Logo" />
+              <img src="assets/logo.png" alt="Parsons Logo " />
 
               <button class="lg:hidden w-10 h-10 ml-auto flex items-center justify-center border border-blue-500 text-blue-500 rounded-md">
                 <i data-feather="menu"></i>
